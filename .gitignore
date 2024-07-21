@@ -19,3 +19,9 @@
 
 # Go workspace file
 go.work
+
+# Don't include public/ and resources/ directories
+public/
+resources/
+
+.hugo_build.lock
