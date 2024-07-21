@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-cl'
+title = 'My New Hugo Site'
+
+theme = "hugo-blog-awesome"
