@@ -6,7 +6,15 @@ theme = 'hugo-blog-awesome'
 enableEmoji = true
 ignoreLogs = ['additional-script-loading-error']
 
-############################## English language ################################
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/bryawnie"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/bryortizp"
+
+############################## Español language ################################
 [Languages.es]
   languageName = "Español"
   languageCode = "es"
