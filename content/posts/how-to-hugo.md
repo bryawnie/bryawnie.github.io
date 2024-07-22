@@ -1,7 +1,8 @@
 ---
-title: "How to Hugo"
+title: "Usando Hugo"
 date: 2024-07-21T11:22:44-04:00
-draft: true
+draft: false
+toc: false
 ---
 
 # ¿Cómo levantar un sitio simple usando Hugo?
